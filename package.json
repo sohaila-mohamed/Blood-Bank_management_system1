@@ -1,0 +1,24 @@
+{
+  "name": "blood-bank_management_system1",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/sohaila-mohamed/Blood-Bank_management_system1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.html ",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohaila-mohamed/Blood-Bank_management_system1.git"
+  },
+  "author": "sohaila-mohamed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohaila-mohamed/Blood-Bank_management_system1/issues"
+  },
+  "homepage": "https://github.com/sohaila-mohamed/Blood-Bank_management_system1#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
